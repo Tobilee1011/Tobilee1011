@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using WMX3ApiCLR;
 using System.Threading;
 
+//vision관련 프로그램임 
+
 namespace VisionProgram
 {
     class SoftMotion
